@@ -1,1 +1,3 @@
 tgbot.py  =  pz3_webAPI_withMent.py  (18_260722)
+
+bot_logic.py  = ___pz2_functions.py  (13_280622)
