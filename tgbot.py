@@ -227,8 +227,6 @@ user = {"user_id" : user_id,
 #основной цикл обработки сообщений пользователя
 last_message_id = 0
 
-g=0
-
 while True:
 	updates = get_updates(token)
 	last_message = updates["result"][-1]	
