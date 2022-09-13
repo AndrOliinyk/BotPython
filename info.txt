@@ -1,3 +1,3 @@
-tgbot.py  =  pz3_webAPI_withMent.py  (18_260722)
+tgbot.py  =  _bot_pz4_result_Ol.py  (23_100922)
 
-bot_logic.py  = ___pz2_functions.py  (13_280622)
+users.txt  = файл со списком пользователей в JSON формате
